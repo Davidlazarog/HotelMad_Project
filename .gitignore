@@ -129,9 +129,7 @@ dmypy.json
 .pyre/
 
 #Extra
-empresario.jpg
 Hotel_Reviews.csv
-bed.jpeg
 .DS_Store
 hotel_clean.csv
 hotel_esp.csv
