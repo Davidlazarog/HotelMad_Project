@@ -3,7 +3,7 @@
 En el siguiente documento, podrás encontrar el segundo proyecto del bootcamp de IronHack , Data Analitics. 
 
 Esta vez, analizaremos dataset con todas las reviews hechas en el portal de reservas Booking en los paises de Reino Unido,
-España, Francia, Austria y Holanda. 
+España, Francia, Austria y Holanda. https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
 
 ![](./input/bed.jpeg)
 

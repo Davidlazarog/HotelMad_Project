@@ -94,8 +94,4 @@ def top10():
     hotel_esp2 = hotel_esp2.sort_values(['Reviewer_Score'], ascending = True).head(10)
     return hotel_esp2.plot.barh();
 
-def top10():
-    hotel_esp = op.read('output/hotel_esp.csv')
-    hotel_esp2 =hotel_esp.groupby("Reviewer_Nationality").agg({"Reviewer_Score":"mean"})
-    hotel_esp2 = hotel_esp2.sort_values(['Reviewer_Score'], ascending = True).head(10)
-    return hotel_esp2.plot.barh();
+
